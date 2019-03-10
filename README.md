@@ -12,3 +12,7 @@ SoccerBotBrain: 1st Arduino on the soccerbot that computes the directions from e
 SoccerBotMuscle: 2nd Arduino on the soccerbot that excecutes the directions given by the brain.
 BluetoothRemote: Program for the Arduino on the remote.
 SoccerBotBrainTableMode: A different program that can be uploaded to the brain to run the 3rd mode.
+
+
+NOTE:
+Pictures and more in depth descriptions will be uploaded shortly. (right now just uploading all the code for each project)
